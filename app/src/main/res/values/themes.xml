@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Usado pela tela inicial e também como tema dos widgets do menu flutuante -->
+    <style name="Theme.FloatingMenu" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

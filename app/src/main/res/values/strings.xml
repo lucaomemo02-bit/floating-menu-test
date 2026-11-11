@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Menu Flutuante Teste</string>
+
+    <!-- Notificação do serviço -->
+    <string name="notif_channel">Menu flutuante</string>
+    <string name="notif_title">Menu flutuante ativo</string>
+    <string name="notif_text">Toque em Parar para remover a sobreposição.</string>
+    <string name="notif_stop">Parar</string>
+
+    <!-- Tela inicial -->
+    <string name="main_title">Teste de menu flutuante</string>
+    <string name="main_desc">Valida layout, arraste e toques de uma sobreposição sobre outros apps.</string>
+    <string name="btn_permission">1. Conceder permissão de sobreposição</string>
+    <string name="btn_start">2. Iniciar menu flutuante</string>
+    <string name="btn_stop">Parar menu flutuante</string>
+    <string name="status_perm_ok">Permissão de sobreposição: concedida</string>
+    <string name="status_perm_no">Permissão de sobreposição: pendente</string>
+    <string name="status_service_on">Serviço: ativo</string>
+    <string name="status_service_off">Serviço: parado</string>
+    <string name="toast_need_permission">Conceda a permissão de sobreposição primeiro.</string>
+
+    <!-- Menu flutuante -->
+    <string name="icon_symbol">☰</string>
+    <string name="panel_title">Menu de testes</string>
+    <string name="collapse_symbol">—</string>
+    <string name="opt_outline">Mostrar contorno de layout</string>
+    <string name="opt_compact">Modo compacto (esconde o log)</string>
+    <string name="lbl_size">Largura do painel</string>
+    <string name="size_small">Pequena</string>
+    <string name="size_medium">Média</string>
+    <string name="size_large">Grande</string>
+    <string name="lbl_accent">Cor do cabeçalho</string>
+    <string name="lbl_opacity">Opacidade</string>
+    <string name="btn_reset">Resetar posição</string>
+    <string name="btn_clear">Limpar log</string>
+
+    <string-array name="accent_options">
+        <item>Azul</item>
+        <item>Verde</item>
+        <item>Laranja</item>
+    </string-array>
+</resources>
